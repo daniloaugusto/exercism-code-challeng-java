@@ -45,3 +45,9 @@ gradle-app.setting
 *.settings
 /*/README.md
 /*/TUTORIAL.md
+
+## vscode 
+*/.vscode/
+
+# Local History for Visual Studio Code
+.history/
